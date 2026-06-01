@@ -1,2 +1,2 @@
 # IIM-Ayodhya-Website-Clone
-I made a IIM Ayodhya Website Ayodhya Clone by using Frontend Technologies to strenghten by development skills
+I bulid a project a IIM Ayodhya Website Clone by using Frontend Technologies to strenghten by development skills
